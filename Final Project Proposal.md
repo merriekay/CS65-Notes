@@ -55,9 +55,4 @@ The storyboard should consist of a few rough sketches of what your program will 
 
 ## How to Submit:
 
-Submit your pdf/docx/Google Doc link to Blackboard under Assignments--> Lab #14, Project Proposal, and upload your document before the deadline.
-
-
-```python
-
-```
+Submit your pdf/docx/Google Doc link to Blackboard under __Assignments--> Final Project Proposal__, and upload your document before the deadline.
