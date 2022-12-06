@@ -2,11 +2,14 @@
 
 __Due__: Wednesday 12/7/2022 
 
+## Updated December 6th!!
+- ~~[ ] Accessibility feature~~ and ~~`dictionary`~~ were removed from the list, so you only need to include __14 of the 23 elements__ for full credit. 
+
 The final project in CS65 provides an opportunity for you to develop a Python program of your choosing. 
 
 The proposal requires a short (1/2-1 page) written description and a storybaord for your final project. 
 
-To receive full credit on the final project you will need to use at least __15__ of the following __25__ elements:
+To receive full credit on the final project you will need to use at least __14__ of the following __23__ elements:
 - [ ] variables
 - [ ] comments
 - [ ] if statement
@@ -28,8 +31,8 @@ To receive full credit on the final project you will need to use at least __15__
 - [ ] Nested List (2D list)
 - [ ] a List build using list comprehension format `[(x) for x in list]`
 - [ ] Reading from a file
-- [ ] Dictionary
-- [ ] Accessibility feature
+- ~~[ ] Dictionary~~
+- ~~[ ] Accessibility feature~~
 - [ ] Uses a custom class to create cutsom objects
 - [ ] Changes an attribute of a custom object
 
