@@ -1,6 +1,6 @@
 # CS65 Final Project Proposal:
 
-__Due__: Wednesday 12/7/2022 
+__Due__: Wednesday 12/7/2022 before 11:00am. 
 
 ## Updated December 6th!!
 - ~~[ ] Accessibility feature~~ and ~~`dictionary`~~ were removed from the list, so you only need to include __14 of the 23 elements__ for full credit. 
