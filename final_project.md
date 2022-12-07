@@ -39,7 +39,7 @@ To receive full credit on the final project you will need to use at least __14__
 You can work on the project in groups of up to 2 people. Even if you are working in a group, both partners will need to submit the proposal individually. 
 
 ## Individual Written Reflection
-In addition to your coe, the final project requires a short __individual reflection__-- a written component that answers the following questions:
+In addition to your code, the final project requires a short __individual reflection__-- a written component that answers the following questions:
 1. Estimate how many hours you spend on the final project
 2. Briefly (2-3 sentences) describe what you learned through completing your final project
 3. Explain which of the core constructs (from the list above) you used in your project. Give an example of how/where you used it in your project. Line numbers and screenshots are great here.
